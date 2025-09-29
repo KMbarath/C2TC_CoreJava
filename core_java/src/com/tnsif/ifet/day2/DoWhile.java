@@ -1,4 +1,4 @@
-package day2;
+package com.tnsif.ifet.day2;
 
 public class DoWhile {
 	public static void main(String[] args) {

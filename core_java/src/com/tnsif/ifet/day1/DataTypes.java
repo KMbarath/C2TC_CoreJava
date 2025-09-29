@@ -1,4 +1,4 @@
-package day1;
+package com.tnsif.ifet.day1;
 
 public class DataTypes {
 	public static void main(String[] args) {
