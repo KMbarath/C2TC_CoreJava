@@ -1,6 +1,6 @@
-package day4.secondPackage;
+package com.tnsif.ifet.day4.secondPackage;
 
-import day4.firstPackage.Base;
+import com.tnsif.ifet.day4.firstPackage.Base;
 
 public class Executor {
 	public static void main(String[] args) {

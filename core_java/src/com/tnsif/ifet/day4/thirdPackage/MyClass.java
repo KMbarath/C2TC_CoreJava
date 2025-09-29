@@ -1,4 +1,4 @@
-package day4.thirdPackage;
+package com.tnsif.ifet.day4.thirdPackage;
 
 public class MyClass {
 	private static MyClass obj=new MyClass();

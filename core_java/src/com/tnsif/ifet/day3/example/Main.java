@@ -1,4 +1,4 @@
-package day3.example;
+package com.tnsif.ifet.day3.example;
 
 public class Main {
 	public static void main(String[] args) {

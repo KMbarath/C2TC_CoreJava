@@ -1,4 +1,4 @@
-package day3.scanner;
+package com.tnsif.ifet.day3.scanner;
 
 public class Person {
 	private String name;
